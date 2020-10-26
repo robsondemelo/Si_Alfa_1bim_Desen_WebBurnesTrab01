@@ -1,0 +1,25 @@
+body{
+	background: gray;
+}
+h1{
+	text-align: center;
+	font-family: Arial;
+	font-size: 32px;
+	color: red;
+}
+h2 {
+	font-family: Tahoma;
+}
+p{
+	text-align: justify;
+	font-family: Tahoma;
+	font-size: 14px;
+}
+a{
+	text-decoration: none;
+    color: yellow;
+}
+.mario{
+	width: 40%;
+	   
+}
